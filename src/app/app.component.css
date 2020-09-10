@@ -1,0 +1,12 @@
+h1{
+    color: rgba(252, 71, 71, 0.76);
+    text-align:center;
+}
+
+input.ng-invalid{
+    border: 1px solid #a94442;
+}
+
+input.ng-valid{
+    border: 1px solid blue;
+}
